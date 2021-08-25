@@ -1,4 +1,4 @@
-# jiban
+# jiban A philosophy of life in nepali
 
 A new Flutter project.
 
